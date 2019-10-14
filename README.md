@@ -6,10 +6,6 @@ Dataset was obtained from Kaggle and the code for observing the analysis was by 
 ## Built With
 * Python
 
-## Authors
-
-* **Pietro Pozzati** - *Initial work*
-
 ## Acknowledgments
 
 * Kaggle
