@@ -10,7 +10,7 @@ and see which team is the best but also recognize different trends from differen
 * Python
 * Numpy
 * Pandas
-* Matplotlib
+* Plotly
 
 ## Acknowledgments
 
