@@ -4,7 +4,7 @@ Dataset was obtained from Kaggle and the code for observing the analysis was by 
 and see which team is the best but also recognize different trends from different eras/decades. 
 ## Current Status: Ongoing
 ## Results from Football Analytics Notebook
-Determined by the total winning percentage of each team. Includes teams that have played <50 games. Will look at teams that have played more.
+Determined by the total winning percentage of each team. Includes teams that have played >50 games. Will look at teams that have played more.
 ![](Results.PNG)
 
 
